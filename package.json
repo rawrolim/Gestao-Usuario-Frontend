@@ -1,6 +1,7 @@
 {
   "name": "Frontend",
   "version": "0.0.1",
+  "homepage": "Gestao-Usuario-Frontend/",
   "private": true,
   "dependencies": {
     "@capacitor/app": "1.0.7",
