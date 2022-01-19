@@ -1,4 +1,4 @@
-import {  IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonInput, IonItem, IonLabel, IonList, IonItemDivider, IonButton, withIonLifeCycle, useIonViewDidEnter, useIonViewDidLeave } from '@ionic/react';
+import {  IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonInput, IonItem, IonLabel, IonList, IonItemDivider, IonButton, withIonLifeCycle, useIonViewDidEnter, useIonViewDidLeave, IonNavLink, IonRouterLink } from '@ionic/react';
 import { useEffect, useState } from 'react';
 import ExploreContainer from '../../components/ExploreContainer';
 import './Formulario.css';
@@ -90,7 +90,11 @@ const Formulario: React.FC = () => {
         <IonPage>
             <IonHeader>
                 <IonToolbar>
-                <IonTitle>Formulario</IonTitle>
+                    <IonTitle>
+                        Formulario
+                    </IonTitle>
+                    
+                    <IonRouterLink href="/Listagem">Voltar</IonRouterLink>
                 </IonToolbar>
             </IonHeader>
             <IonContent fullscreen>
