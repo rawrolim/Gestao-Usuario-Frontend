@@ -3,13 +3,13 @@
     "static/js/0.48309ec3.chunk.js": "/Gestao-Usuario-Frontend/static/js/0.48309ec3.chunk.js",
     "static/js/0.48309ec3.chunk.js.map": "/Gestao-Usuario-Frontend/static/js/0.48309ec3.chunk.js.map",
     "main.css": "/Gestao-Usuario-Frontend/static/css/main.7e8bfae2.chunk.css",
-    "main.js": "/Gestao-Usuario-Frontend/static/js/main.eee3c98f.chunk.js",
-    "main.js.map": "/Gestao-Usuario-Frontend/static/js/main.eee3c98f.chunk.js.map",
+    "main.js": "/Gestao-Usuario-Frontend/static/js/main.fbbbab07.chunk.js",
+    "main.js.map": "/Gestao-Usuario-Frontend/static/js/main.fbbbab07.chunk.js.map",
     "runtime-main.js": "/Gestao-Usuario-Frontend/static/js/runtime-main.273410a4.js",
     "runtime-main.js.map": "/Gestao-Usuario-Frontend/static/js/runtime-main.273410a4.js.map",
     "static/css/3.90935b8e.chunk.css": "/Gestao-Usuario-Frontend/static/css/3.90935b8e.chunk.css",
-    "static/js/3.94693879.chunk.js": "/Gestao-Usuario-Frontend/static/js/3.94693879.chunk.js",
-    "static/js/3.94693879.chunk.js.map": "/Gestao-Usuario-Frontend/static/js/3.94693879.chunk.js.map",
+    "static/js/3.b64785c8.chunk.js": "/Gestao-Usuario-Frontend/static/js/3.b64785c8.chunk.js",
+    "static/js/3.b64785c8.chunk.js.map": "/Gestao-Usuario-Frontend/static/js/3.b64785c8.chunk.js.map",
     "static/js/4.d08a7f65.chunk.js": "/Gestao-Usuario-Frontend/static/js/4.d08a7f65.chunk.js",
     "static/js/4.d08a7f65.chunk.js.map": "/Gestao-Usuario-Frontend/static/js/4.d08a7f65.chunk.js.map",
     "static/js/5.9462ca8f.chunk.js": "/Gestao-Usuario-Frontend/static/js/5.9462ca8f.chunk.js",
@@ -40,15 +40,15 @@
     "static/js/10.5d8648db.chunk.js.LICENSE.txt": "/Gestao-Usuario-Frontend/static/js/10.5d8648db.chunk.js.LICENSE.txt",
     "static/js/11.5df06ac0.chunk.js.LICENSE.txt": "/Gestao-Usuario-Frontend/static/js/11.5df06ac0.chunk.js.LICENSE.txt",
     "static/js/13.56984939.chunk.js.LICENSE.txt": "/Gestao-Usuario-Frontend/static/js/13.56984939.chunk.js.LICENSE.txt",
-    "static/js/3.94693879.chunk.js.LICENSE.txt": "/Gestao-Usuario-Frontend/static/js/3.94693879.chunk.js.LICENSE.txt",
+    "static/js/3.b64785c8.chunk.js.LICENSE.txt": "/Gestao-Usuario-Frontend/static/js/3.b64785c8.chunk.js.LICENSE.txt",
     "static/js/6.6357c2bb.chunk.js.LICENSE.txt": "/Gestao-Usuario-Frontend/static/js/6.6357c2bb.chunk.js.LICENSE.txt",
     "static/js/9.a8804432.chunk.js.LICENSE.txt": "/Gestao-Usuario-Frontend/static/js/9.a8804432.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.273410a4.js",
     "static/css/3.90935b8e.chunk.css",
-    "static/js/3.94693879.chunk.js",
+    "static/js/3.b64785c8.chunk.js",
     "static/css/main.7e8bfae2.chunk.css",
-    "static/js/main.eee3c98f.chunk.js"
+    "static/js/main.fbbbab07.chunk.js"
   ]
 }
